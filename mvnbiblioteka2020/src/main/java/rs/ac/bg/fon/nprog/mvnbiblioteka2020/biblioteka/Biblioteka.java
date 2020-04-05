@@ -6,6 +6,7 @@ import java.util.List;
 
 import rs.ac.bg.fon.nprog.mvnbiblioteka2020.biblioteka.interfejs.BibliotekaInterfejs;
 
+
 /**
  * Klasa predstavlja biblioteku sa knjigama. Knjige se cuvaju u
  * listi. Klasa implementira interfejs BibliotekaInterfejs.

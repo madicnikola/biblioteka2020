@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>rs.ac.bg.fon.nprog</groupId>
-  <artifactId> mvnbiblioteka2020</artifactId>
+  <artifactId>mvnbiblioteka2020</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
 
-  <name> mvnbiblioteka2020</name>
+  <name>mvnbiblioteka2020</name>
   <url>http://maven.apache.org</url>
 
   <properties>
