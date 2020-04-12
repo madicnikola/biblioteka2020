@@ -1,9 +1,9 @@
-package rs.ac.bg.fon.nprog.mvnbiblioteka2020.biblioteka.interfejs;
+package biblioteka.interfejs;
 
 import java.util.List;
 
-import rs.ac.bg.fon.nprog.mvnbiblioteka2020.biblioteka.Autor;
-import rs.ac.bg.fon.nprog.mvnbiblioteka2020.biblioteka.Knjiga;
+import biblioteka.Autor;
+import biblioteka.Knjiga;
 
 
 

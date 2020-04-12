@@ -1,10 +1,10 @@
-package rs.ac.bg.fon.nprog.mvnbiblioteka2020.biblioteka;
+package biblioteka;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-import rs.ac.bg.fon.nprog.mvnbiblioteka2020.biblioteka.interfejs.BibliotekaInterfejs;
+import biblioteka.interfejs.BibliotekaInterfejs;
 
 
 /**

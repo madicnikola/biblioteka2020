@@ -1,4 +1,4 @@
-package rs.ac.bg.fon.nprog.mvnbiblioteka2020.biblioteka;
+package biblioteka;
 
 import java.util.LinkedList;
 

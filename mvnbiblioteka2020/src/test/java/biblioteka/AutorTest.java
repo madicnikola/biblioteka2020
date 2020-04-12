@@ -1,5 +1,6 @@
-package rs.ac.bg.fon.nprog.mvnbiblioteka2020.biblioteka;
+package biblioteka;
 
+import biblioteka.Autor;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;

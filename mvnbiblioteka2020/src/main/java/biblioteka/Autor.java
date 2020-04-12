@@ -1,4 +1,4 @@
-package rs.ac.bg.fon.nprog.mvnbiblioteka2020.biblioteka;
+package biblioteka;
 
 /**
  * Autor knjige ili publikacije.

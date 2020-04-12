@@ -1,5 +1,7 @@
-package rs.ac.bg.fon.nprog.mvnbiblioteka2020.biblioteka;
+package biblioteka;
 
+import biblioteka.Knjiga;
+import biblioteka.Autor;
 import static org.junit.Assert.*;
 
 import java.util.LinkedList;
